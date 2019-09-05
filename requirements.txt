@@ -1,0 +1,5 @@
+pyyaml>=5.1
+tensorflow-gpu>=1.13.1
+jieba>=0.39
+cnlp>=0.0.10
+torbjorn>=0.0.2
